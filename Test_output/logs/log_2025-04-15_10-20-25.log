@@ -1,0 +1,15 @@
+[INFO] 15-04-2025 10:20:28 [main] [test.tc3_login.setUp(tc3_login.java:32)] open pag
+[INFO] 15-04-2025 10:20:29 [main] [test.tc3_login.setUp(tc3_login.java:34)] page is open 
+[INFO] 15-04-2025 10:20:29 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 15-04-2025 10:20:30 [main] [Listeners.itest] test case loginstart
+[INFO] 15-04-2025 10:20:32 [main] [page.pag2_login] start to random2
+[INFO] 15-04-2025 10:20:33 [main] [page.pag2_login] start to random4
+[INFO] 15-04-2025 10:20:33 [main] [page.pag2_login] price : $9.99
+[INFO] 15-04-2025 10:20:33 [main] [page.pag2_login] price : $49.99
+[INFO] 15-04-2025 10:20:33 [main] [page.pag2_login] total price : 59.980003
+[INFO] 15-04-2025 10:20:34 [main] [page.pag3_login.GetPrice(pag3_login.java:32)] price : 9.99
+[INFO] 15-04-2025 10:20:34 [main] [page.pag3_login.GetPrice(pag3_login.java:32)] price : 49.99
+[INFO] 15-04-2025 10:20:34 [main] [page.pag3_login.GetPrice(pag3_login.java:36)] total price : 59.980003
+[INFO] 15-04-2025 10:20:34 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 15-04-2025 10:20:34 [main] [Listeners.itest] test caseloginpass
+[INFO] 15-04-2025 10:20:34 [main] [Listeners.iinvokedmethod] Test Passed Successfully!

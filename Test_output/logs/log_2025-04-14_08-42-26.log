@@ -1,0 +1,14 @@
+[INFO] 14-04-2025 08:42:32 [main] [test.tc2_login.cookies(tc2_login.java:33)] open pag
+[INFO] 14-04-2025 08:42:33 [main] [test.tc2_login.cookies(tc2_login.java:37)] page is open 
+[INFO] 14-04-2025 08:42:36 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 14-04-2025 08:42:38 [main] [test.tc2_login.setUp(tc2_login.java:53)] open pag
+[INFO] 14-04-2025 08:42:39 [main] [test.tc2_login.setUp(tc2_login.java:57)] page is open 
+[INFO] 14-04-2025 08:42:41 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 14-04-2025 08:42:41 [main] [Listeners.itest] test case checkproductsstart
+[INFO] 14-04-2025 08:42:42 [main] [page.pag2_login] number of products in cart: 6
+[INFO] 14-04-2025 08:42:43 [main] [page.pag2_login] number of products in select: 6
+[INFO] 14-04-2025 08:42:43 [main] [page.pag2_login] number of products : 6
+[INFO] 14-04-2025 08:42:43 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 14-04-2025 08:42:43 [main] [Listeners.itest] test casecheckproductspass
+[INFO] 14-04-2025 08:42:44 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
+[INFO] 14-04-2025 08:42:44 [main] [Listeners.iinvokedmethod] Test Passed Successfully!
